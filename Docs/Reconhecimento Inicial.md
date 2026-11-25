@@ -2,6 +2,7 @@
 Para confirmar os serviços ativos e as respectivas portas no alvo, foi executada uma varredura com o Nmap:
 
   Bash
+  
   nmap -sV -p 21,80,139,445 192.168.56.101
 
 Principais portas identificadas:
